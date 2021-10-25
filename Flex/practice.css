@@ -1,0 +1,14 @@
+.container {
+  height: 400px;
+  background-color: royalblue;
+  display: flex;
+  flex-direction: column-reverse;
+  margin-top: 20px;
+}
+
+.item {
+  width: 100px;
+  height: 100px;
+  border: 3px dashed red;
+  background-color: orange;
+}
